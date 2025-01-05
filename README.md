@@ -973,4 +973,4 @@ Attualmente sono alla ricerca di **opportunità professionali** sia **da remoto*
 
 ### Licenza:
 
-Questo progetto è concesso in licenza sotto la Licenza **GPL-3.0**. Consulta il file [LICENSE](#) per i dettagli.
+Questo progetto è concesso in licenza sotto la Licenza **GPL-3.0**. Consulta il file [LICENSE](https://github.com/dipaoloalex-dev/Restaurant/blob/main/LICENSE.txt) per i dettagli.
